@@ -10,9 +10,9 @@ This game is made with the intention to learn syntax of the JAVASCRIPT Language,
     Learn Memory Management & what may casue Stack Overflow while using Recusrsion in js.
 
 JAVASCRIPT-ROCK-PAPER-SCISSORS/
-  index.html
-  js.js
-  README.md
+├── index.html
+├── js.js
+└── README.md
 
 
 ## Future Learning Objectves:
