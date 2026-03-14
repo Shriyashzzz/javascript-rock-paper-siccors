@@ -9,14 +9,10 @@ This game is made with the intention to learn syntax of the JAVASCRIPT Language,
     Learn how to debug errors using DOM and console.log()
     Learn Memory Management & what may casue Stack Overflow while using Recusrsion in js.
 
-|--JAVASCRIPT-ROCK-PAPER-SICCORS
-    <br>
-    |-- index.html
-    <br>
-    |--js.js
-    <br>
-    |--README.md
-
+JAVASCRIPT-ROCK-PAPER-SCISSORS/
+  index.html
+  js.js
+  README.md
 
 
 ## Future Learning Objectves:
