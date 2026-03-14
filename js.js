@@ -95,4 +95,12 @@ function startGame(){
     }
 }
 
-startGame()
+
+const start_btn = document.querySelector("#startGameBtn");
+
+
+start_btn.textContent = ("Start Game!");
+start_btn.style.color = ("green");
+
+
+start_btn.addEventListener("click", startGame) 
