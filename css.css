@@ -5,7 +5,9 @@ body{
 }
 #startGameBtn{
     border-radius: 10px;
-    
+    padding: 25px;
+    background-color: blanchedalmond;
+    color: green;
 }
 
 .btnContainer{
