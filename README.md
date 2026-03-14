@@ -1,24 +1,29 @@
-# ROCK-PAPER-SCISSORS GAME
+# Rock-Paper-Scissors Game
 
-This game is made with the intention to learn syntax of the JAVASCRIPT Language, There are some issues with some script that might casue STACK OVERFLOW, But the alternative is also presented.  
+This game is made with the intention to learn the syntax of the JavaScript language. There are some issues with some scripts that might cause Stack Overflow, but an alternative is also presented.
 
+## Objectives With This Project
 
-## Objective with this project:
-    Learn basic assignemnt, if..else, function declaration syntaxes.
-    Learn basic javascript libraries like promt and alert
-    Learn how to debug errors using DOM and console.log()
-    Learn Memory Management & what may casue Stack Overflow while using Recusrsion in js.
+- Learn basic assignment, if...else, and function declaration syntaxes.
 
+- Learn basic JavaScript libraries like `prompt` and `alert`.
+
+- Learn how to debug errors using the DOM and `console.log()`.
+
+- Learn Memory Management and what may cause Stack Overflow while using Recursion in JS.
+
+## Project Structure
+```
 JAVASCRIPT-ROCK-PAPER-SCISSORS/
 ├── index.html
 ├── js.js
 └── README.md
+```
 
+## Future Learning Objectives
 
-## Future Learning Objectves:
+- **DOM Manipulation:** Replacing `prompt` and `alert` with HTML buttons and text updates.
 
-    DOM Manipulation: Replacing prompt and alert with HTML buttons and text updates.
+- **Event Listeners:** Transitioning from procedural function calls to event-driven programming.
 
-    Event Listeners: Transitioning from procedural function calls to event-driven programming.
-
-    Array Methods: Refactoring win/loss logic using arrays or lookup objects.
+- **Array Methods:** Refactoring win/loss logic using arrays or lookup objects.
