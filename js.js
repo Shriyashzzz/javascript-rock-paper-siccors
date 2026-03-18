@@ -162,14 +162,12 @@ function appendScore(givenresult){
 
 function checkIfWon(){
     if (humanScore == 5){
-        clankerChoicePara.textContent = "";
         winnerPara.textContent = "You have saved the humanity! You can officially call yourself Clanker beater."
         winnerPara.textContent= winnerPara.textContent.toUpperCase()
 
         document.querySelectorAll('.gameButton').forEach(btn => btn.disabled = true);
         
-    }else if(computerScore ==5){
-        clankerChoicePara.textContent = "";
+    }else if(computerScore ==5){     
         winnerPara.textContent = "You are a disgrace to humanity, Clankers are taking over now. beep beep boop boop"
         winnerPara.textContent = winnerPara.textContent.toUpperCase()
         document.querySelectorAll('.gameButton').forEach(btn => btn.disabled = true);
