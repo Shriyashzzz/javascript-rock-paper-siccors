@@ -141,7 +141,7 @@ buttonSpan.addEventListener('click', function(e){
         const humanChoice = e.target.textContent.toUpperCase();
         const result = playRound(humanChoice)
         console.log(`Result Array From playRound Function: ${result}`)
-        clankerChoicePara.textContent = `Calnker Chose: ${result[2]}`
+        clankerChoicePara.textContent = `Clanker: ${result[2]}`
         appendScore(result);
         console.log(`Clanker: ${computerScore}, You: ${humanScore}`);
         console.log(`clanker choice = ${result[2]}`)
